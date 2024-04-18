@@ -5,24 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8009b36c-c429-4db3-97e6-ca6c1c1d9c44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsearch/model/Words.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/src/main/java/com/example/wordsearch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/src/main/java/com/example/wordsearch/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/src/main/java/com/example/wordsearch/view/GameStage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words-search-master/src/main/resources/com/example/wordsearch/game-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsearch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsearch/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/wordsearch/view/GameStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +34,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2eO0SvlSS5i7P8NXXkkxkPm4Hu4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -62,9 +60,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "jamh",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USUARIO/Downloads/words-search-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,7 +74,6 @@
     <attachedChunks>
       <set>
         <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
       </set>
     </attachedChunks>
   </component>
@@ -90,7 +86,6 @@
       <option name="presentableId" value="Default" />
       <updated>1711760322881</updated>
       <workItem from="1711760323935" duration="3235000" />
-      <workItem from="1713474007562" duration="3008000" />
     </task>
     <servers />
   </component>
